@@ -37,5 +37,7 @@ Join me on this exciting technology journey!
 [![PHP](https://img.shields.io/badge/PHP-0095D5?style=for-the-badge&logo=PHP&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()</br>
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()</br>
+
+[![VS](https://img.shields.io/badge/VSCode-4479A1?style=for-the-badge&logo=VSCode&logoColor=white&labelColor=101010)]()
 </br>

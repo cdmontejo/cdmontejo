@@ -26,7 +26,7 @@ Always open to new learning and collaboration opportunities.</br>
 Willing to contribute and share knowledge.</br>
 Join me on this exciting technology journey!
 
-## Tecnologías:
+## Technology:
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 </br>
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()</br>

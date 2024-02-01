@@ -6,29 +6,30 @@ I am Cesar Marines, a passionate Systems Engineering student with a solid certif
 ## 🚀 Skills and Certifications:
 
 Web Development Certification at intecap🌐</br>
-Certification in Application Development at intecap 📱
+Certification in Application Development at intecap 📱</br>
 Certification in Front-End in NEO 💻
 
 ## 🏅 Outstanding Achievements:
 
-3rd place medal in World Skills competitions 🥉.
-Multiplicadores App.
+3rd place medal in World Skills competitions 🥉.</br>
+Multiplicadores App.</br>
 Proinco App.
 
 ## 🌍 Exploring the World of Code:
 
-Constantly learning and improving my skills.
+Constantly learning and improving my skills.</br>
 Passionate about Flutter, kotlin and firebase.
 
 ## 📚 Continuous Learning:
 
-Always open to new learning and collaboration opportunities.
-Willing to contribute and share knowledge.
+Always open to new learning and collaboration opportunities.</br>
+Willing to contribute and share knowledge.</br>
 Join me on this exciting technology journey!
 
 ## Tecnologías:
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 </br>
+[![Android](https://img.shields.io/badge/Php?style=social&logo=Php&logoColor=blue&labelColor=white)]()
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()

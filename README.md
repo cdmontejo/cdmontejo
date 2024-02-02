@@ -27,7 +27,7 @@ Willing to contribute and share knowledge.</br>
 Join me on this exciting technology journey!
 
 ## Technology:
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
+[![Swift](https://img.shields.io/badge/Dart-FA7343?style=for-the-badge&logo=Dart&logoColor=white&labelColor=101010)]()
 </br>
 [![Laravel](https://img.shields.io/badge/Laravel-FA7343?style=for-the-badge&logo=Laravel&logoColor=white&labelColor=101010)]()
 </br>

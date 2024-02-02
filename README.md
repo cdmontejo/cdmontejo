@@ -11,7 +11,7 @@ Certification in Front-End in NEO 💻
 
 ## 🏅 Outstanding Achievements:
 
-3rd place medal in World Skills competitions 🥉.</br>
+3rd place medal in World Skills competitions in the area of ​​hybrid app development 🥉.</br>
 Multiplicadores App.</br>
 Proinco App.
 

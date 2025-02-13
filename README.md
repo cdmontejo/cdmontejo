@@ -11,9 +11,9 @@ Certification in Front-End in NEO 💻
 
 ## 🏅 Outstanding Achievements:
 
+1st place medal in Hackathon at the Rafael Landivar University. </br>
 3rd place medal in World Skills competitions in the area of ​​hybrid app development 🥉.</br>
-Multiplicadores App.</br>
-Proinco App.
+
 
 ## 🌍 Exploring the World of Code:
 
